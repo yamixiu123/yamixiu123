@@ -9,7 +9,7 @@
 I'm focusing on Competitive Programming and Data Structures.
 Currently grinding daily on **AtCoder**! 💻
 
-[![]([https://img.shields.io/badge/AtCoder-Profile-black?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/yamixiu123](https://atcoder.jp/users/yamixiu))
+[![AtCoder Profile](https://img.shields.io/badge/AtCoder-Profile-black?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/yamixiu123)
 
 ---
 
@@ -26,5 +26,12 @@ Currently grinding daily on **AtCoder**! 💻
 ---
 
 ### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamixiu123&theme=tokyonight&hide_border=true" alt="Misyu's Streak" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamixiu123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Top Languages" height="140" />
+</p>
 
 </div>
