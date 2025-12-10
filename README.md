@@ -9,7 +9,7 @@
 I'm focusing on Competitive Programming and Data Structures.
 Currently grinding daily on **AtCoder**! 💻
 
-[![AtCoder Profile](https://img.shields.io/badge/AtCoder-Profile-black?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/yamixiu123)
+[![AtCoder Profile](https://img.shields.io/badge/AtCoder-Profile-black?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/yamixiu)
 
 ---
 
