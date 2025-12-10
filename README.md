@@ -11,10 +11,8 @@ Currently grinding on **AtCoder** to reach Green rating! 🟢
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamixiu123&show_icons=true&theme=radical&count_private=true" alt="yamixiu123's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamixiu123&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-</p>
+![Misyu's Stats](https://github-readme-stats.vercel.app/api?username=yamixiu123&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamixiu123&layout=compact&theme=radical&langs_count=6)
 
 ### 🛠 Tech Stack
 <p align="left">
@@ -23,5 +21,3 @@ Currently grinding on **AtCoder** to reach Green rating! 🟢
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
-![Snake animation](https://github.com/yamixiu123/yamixiu123/blob/output/github-contribution-grid-snake.svg)
