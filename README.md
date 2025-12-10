@@ -27,9 +27,7 @@ Currently grinding daily on **AtCoder**! 💻
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yamixiu123&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Misyu's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamixiu123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamixiu123&theme=tokyonight&hide_border=true" alt="Misyu's Streak" />
+</div>
 </div>
